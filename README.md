@@ -1,6 +1,6 @@
 # bmicalculator
 
-A new Flutter project.
+A new Flutter project using Dart programming language.
 
 ## Getting Started
 
